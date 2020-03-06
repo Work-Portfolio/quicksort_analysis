@@ -23,6 +23,6 @@ src/RecLimAnalysis
 
 
 CS1C Project 9.numbers
-    - Analysis of 'results.csv'. It has tables and graphs of results. Written in "Macintosh Numbers"
+    - Analysis of 'results.csv'. It has tables and graphs of results. Originaly written in "Macintosh Numbers", PDF has some reduring issues.
 
 
