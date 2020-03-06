@@ -19,7 +19,7 @@ src/RandomArray
     - A class written to return a Interger[] of a specified size filled with random numbers between 0-100000
 
 src/RecLimAnalysis
-    - This is the 'main'. It uses Random Array and QuickSort to test the quickSort method with different array sizes and\ recursion limits. Once the recursion limit is reached, insertion sort is used to finish the sorting process. The times are\ recorded and written to 'results.csv'
+    - This is the 'main'. It uses Random Array and QuickSort to test the quickSort method with different array sizes and recursion limits. Once the recursion limit is reached, insertion sort is used to finish the sorting process. The times are recorded and written to 'results.csv'
 
 
 CS1C Project 9.numbers
