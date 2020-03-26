@@ -1,8 +1,9 @@
 # quicksort_analysis
 
-Time analysis of limiting the amount of recursive calls of Quick sort with different sized arrays and finishing sorting with 
-insertion sort. The data was written into a CSV file and loaded into Apple's Numbers program to display data with tables
-and graphs. NOTE: PDF export of this file did not completely render, best viewed with Numbers 
+Time analysis of limiting the amount of recursive calls of Quick sort with different sized arrays. Once the recursion limit
+was reached, the sorting was finished with insertion sort. The data was written into a CSV file and loaded into Macintosh 
+Numbers program to display data with tables and graphs. NOTE: PDF export of this file did not completely render, best viewed 
+with Numbers 
 
 Brief description of submitted files:
 
