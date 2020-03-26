@@ -1,12 +1,8 @@
 # quicksort_analysis
 
-Analysis of limiting the amount of recursive calls of Quick sort with different sized arrays and finishing sorting with insertion sort
-
-Zach Rooney
-CS 1C
-
-rooneyz-project09
-
+Time analysis of limiting the amount of recursive calls of Quick sort with different sized arrays and finishing sorting with 
+insertion sort. The data was written into a CSV file and loaded into Apple's Numbers program to display data with tables
+and graphs. NOTE: PDF export of this file did not completely render, best viewed with Numbers 
 
 Brief description of submitted files:
 
